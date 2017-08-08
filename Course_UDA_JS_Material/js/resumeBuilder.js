@@ -1,7 +1,7 @@
 //Must be called with helper.js containing the method
 
 var bio = {
-	"name" : "Nicolas",
+	"name" : "Olivier",
 	"role" : "Future CEO at myfairclothing.com",
 	"welcomeMessage" : "Hi dude !",
 	"skills" : ["Versatile","Out of the box thinking","Positive attitude", "Persevering"],
